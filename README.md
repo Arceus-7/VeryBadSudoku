@@ -8,8 +8,8 @@ Runs on Linux, macOS, and Windows from a single static binary.
 
 ```
 ╔═══════════════════════╗
-║  V E R Y  B A D      ║
-║    S U D O K U       ║
+║  V E R Y  B A D       ║
+║    S U D O K U        ║
 ╚═══════════════════════╝
 
 ╔═══╤═══╤═══╦═══╤═══╤═══╦═══╤═══╤═══╗
